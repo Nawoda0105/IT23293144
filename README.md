@@ -200,7 +200,7 @@ This project is developed strictly for **educational purposes** as part of
 
 ## Author
 
-**Index Number:** IT23293144
-**Degree Program:** BSc (Hons) in Information Technology
-**Academic Year:** 3rd Year
-**Semester:** 2nd Semester
+* **Index Number:** IT23293144
+* **Degree Program:** BSc (Hons) in Information Technology
+* **Academic Year:** 3rd Year
+* **Semester:** 2nd Semester
